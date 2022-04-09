@@ -17,17 +17,14 @@
 	<img src="./img/entete.png" alt="" style="width:100%;">
     <!-- Indicators -->
     <ol class="carousel-indicators">
-      <li data-target="#trophee" data-slide-to="0" class="active"></li>
-      <li data-target="Planning Matchs" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
 	  <li data-target="#myCarousel" data-slide-to="3"></li>
 	  <li data-target="#myCarousel" data-slide-to="4"></li>
       <li data-target="#myCarousel" data-slide-to="5"></li>
-	  <li data-target="Résultats U8" data-slide-to="6"></li>
-	  <li data-target="Résultats U9" data-slide-to="4"></li>
-	  <li data-target="Résultats U10" data-slide-to="5"></li>
-	  <li data-target="Résultats U11" data-slide-to="6"></li>
-    </ol>
+	  <li data-target="#myCarousel" data-slide-to="6"></li>
+	    </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
@@ -46,7 +43,7 @@
 					</br>
 					</br>
 				<div class="carousel-caption">
-					<h1>Panning Matchs</h1>
+					<h1>Panning</h1>
 				</div>
 		</div>
 		
