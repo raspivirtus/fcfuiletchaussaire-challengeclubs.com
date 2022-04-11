@@ -11,7 +11,6 @@
 <body>
 
 <div class="container">
-     <!--  <h1>Challenge Clubs - 2022</h1> -->
   </br>
   <div id="myCarousel" class="carousel slide" data-ride="carousel"" data-interval="20000">
 	<img src="./img/entete.png" alt="" style="width:100%;">
@@ -30,13 +29,13 @@
     <div class="carousel-inner">
 
 		<div class="item active">
-			<img src="./img/trophee.png" alt="Trophee" style="width:100%;">
+			<img src="./img/trophee.jpg" alt="Trophee" style="width:100%;">
 			
 		</div>
 	 
 	 
 	 <div class="item">
-			<img src="./img/planning_matchs.png" alt="Planning Matchs" style="width:100%;">
+			<img src="./img/planning_1.png" alt="Terrains A et B" style="width:100%;">
 					</br>
 					</br>
 					</br>
@@ -44,11 +43,24 @@
 					</br>
 					</br>
 				<div class="carousel-caption">
-					<h1>Panning</h1>
+					<h1>Terrains A et B</h1>
 				</div>
 		</div>
 		
 		
+		<div class="item">
+			<img src="./img/planning_2
+			.png" alt="Terrains C et D" style="width:100%;">
+					</br>
+					</br>
+					</br>
+					</br>
+					</br>
+					</br>
+				<div class="carousel-caption">
+					<h1>Terrains C et D</h1>
+				</div>
+		</div>
 				<div class="item">
 			<img src="./img/resultats_u7.png" alt="Résultats U7" style="width:100%;">
 					</br>
@@ -57,7 +69,7 @@
 					</br>
 					</br>
 				<div class="carousel-caption">
-					<h1>U7</h1>
+				<p style="color:blue;"> U7 </p>
 				</div>
 		</div>
 		
@@ -70,7 +82,7 @@
 					</br>
 					</br>
 				<div class="carousel-caption">
-					<h1>U8</h1>
+					<h1 style="color:blue;">U8</h1>
 				</div>
 		</div>
     
