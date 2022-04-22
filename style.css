@@ -1,0 +1,26 @@
+body {
+}
+
+.parent {
+	position: 0;
+    width: 820px;
+	height:1280px;
+	margin-left: 25%;
+	margin-right: 25%;
+		
+.header {
+    position: 0;
+    width: 820px;
+    height: 312px;
+	top: 0;
+    opacity: 1.0;
+ }
+ 
+ .content {
+    position: 0;
+    width: 820px;
+    height: 312px;
+	top: 0;
+    opacity: 1.0;
+
+}
