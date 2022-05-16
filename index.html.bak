@@ -51,7 +51,7 @@
 		</div>
 		
 		<div class="item">
-			<img src="./img/planning_terrains_a_b_matin.png" alt="Terrains A et B" style="width:100%;">
+			<img src="./img/planning_terrains_a_b_matin.png" alt="Planning du matin - Terrain A et B" style="width:100%;">
 					</br>
 					</br>
 					</br>
@@ -59,45 +59,45 @@
 					</br>
 					</br>
 				<div class="carousel-caption">
-					<h1>Terrains A et B</h1>
+					<h1>Planning Matin</h1>
 				</div>
 		</div>
 				<div class="item">
-			<img src="./img/planning_terrains_c_d_matin.png" alt="Terrains C et D" style="width:100%;">
+			<img src="./img/planning_terrains_c_d_matin.png" alt="Planning du matin - Terrain C et D" style="width:100%;">
 					</br>
 					</br>
 					</br>
 					</br>
 					</br>
 				<div class="carousel-caption">
-					<h1>Terrains C et D</h1>
+					<h1>Planning Matin</h1>
 				</div>
 		</div>
 		
 		
 		<div class="item">
-			<img src="./img/planning_terrains_a_b_aprem.png" alt="Terrains A et B Apres_midi" style="width:100%;">
+			<img src="./img/planning_terrains_a_b_aprem.png" alt="Planning après-midi - Terrain A et B" style="width:100%;">
 					</br>
 					</br>
 					</br>
 					</br>
 					</br>
 				<div class="carousel-caption">
-					<h1>Terrains A et B</h1>
+					<h1>Planning Après-midi</h1>
 				</div>
 		</div>
     
 	
 	
 		<div class="item">
-			<img src="./img/planning_terrains_c_d_aprem.png" alt="Terrains C et D Apres_midi" style="width:100%;">
+			<img src="./img/planning_terrains_c_d_aprem.png" alt="Planning après-midi - Terrain C et D" style="width:100%;">
 					</br>
 					</br>
 					</br>
 					</br>
 					</br>
 				<div class="carousel-caption">
-					<h1>Terrains C et D</h1>
+					<h1>Planning Après-midi</h1>
 				</div>
 		</div>
 
