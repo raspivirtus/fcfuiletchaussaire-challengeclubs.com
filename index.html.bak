@@ -122,7 +122,7 @@
 			<!------------ Catégorie U7 ------------->
 			<div class="item">
 				<div style="text-align:center">
-					<h1><strong>Catégorie U8</strong></h1>
+					<h1><strong>Catégorie U7</strong></h1>
 						<img src="./img/resultats_u7.png" alt="Résultats U7" style="width:100%;">
 							</br>
 							</br>
@@ -168,10 +168,17 @@
 				<div style="text-align:center">
 					<h1><strong>Catégorie U9</strong></h1>
 						<img src="./img/resultats_u9.png" alt="Résultats U9" style="width:100%;">
-				</div>
-			
-				<div style="text-align:center">
-					<h1><strong>Catégorie U9</strong></h1>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+					<div class="carousel-caption">
+						<h1>U9</h1>
+					</div>
 				</div>
 			</div>
 			<!----------------------------------------->	
@@ -183,10 +190,17 @@
 				<div style="text-align:center">
 					<h1><strong>Catégorie U10</strong></h1>
 						<img src="./img/resultats_u10.png" alt="Résultats U10" style="width:100%;">
-				</div>
-			
-				<div style="text-align:center">
-					<h1><strong>Catégorie U10</strong></h1>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+					<div class="carousel-caption">
+						<h1>U10</h1>
+					</div>
 				</div>
 			</div>
 			<!----------------------------------------->
@@ -198,10 +212,17 @@
 				<div style="text-align:center">
 					<h1><strong>Catégorie U11</strong></h1>
 						<img src="./img/resultats_u11.png" alt="Résultats U11" style="width:100%;">
-				</div>
-			
-				<div style="text-align:center">
-					<h1><strong>Catégorie U11</strong></h1>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+							</br>
+					<div class="carousel-caption">
+						<h1>U11</h1>
+					</div>
 				</div>
 			</div>
 			<!----------------------------------------->
