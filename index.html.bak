@@ -45,81 +45,7 @@
 
 
 		
-			
-			<!---- Planning Matin - Terrain A et B -->
-			<div class="item">
-				<img src="./img/planning_terrains_a_b_matin.png" alt="Planning du matin - Terrain A et B" style="width:100%;">
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-					<div class="carousel-caption">
-						<h1>Matin</h1>
-					</div>
-			</div>
-			<!--------------------------------------->
-			
-			
-			
-			<!---- Planning Matin - Terrain C et D -->
-			<div class="item">
-				<img src="./img/planning_terrains_c_d_matin.png" alt="Planning du matin - Terrain C et D" style="width:100%;">
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-					<div class="carousel-caption">
-						<h1>Matin</h1>
-					</div>
-			</div>
-			<!--------------------------------------->
-			
-			
-			
-			<!---- Planning Après-midi - Terrain A et B -->
-			<div class="item">
-				<img src="./img/planning_terrains_a_b_aprem.png" alt="Planning après-midi - Terrain A et B" style="width:100%;">
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-					<div class="carousel-caption">
-						<h1>Après-midi</h1>
-					</div>
-			</div>
-			<!-------------------------------------------->
-	
-	
-	
-			<!---- Planning Après-midi - Terrain A et B -->
-			<div class="item">
-				<img src="./img/planning_terrains_c_d_aprem.png" alt="Planning après-midi - Terrain C et D" style="width:100%;">
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-						</br>
-					<div class="carousel-caption">
-						<h1>Après-midi</h1>
-					</div>
-			</div>
-			<!-------------------------------------------->
-
-
-
-
-			<!------------ Catégorie U7 ------------->
+						<!------------ Catégorie U7 ------------->
 			<div class="item">
 				<div style="text-align:center">
 					<h1><strong>Catégorie U7</strong></h1>
@@ -249,7 +175,84 @@
 		
 		
 		
-				
+						<!---- Planning Matin - Terrain A et B -->
+			<div class="item">
+				<img src="./img/planning_terrains_a_b_matin.png" alt="Planning du matin - Terrain A et B" style="width:100%;">
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+					<div class="carousel-caption">
+						<h1>Matin</h1>
+					</div>
+			</div>
+			<!--------------------------------------->
+			
+			
+			
+			<!---- Planning Matin - Terrain C et D -->
+			<div class="item">
+				<img src="./img/planning_terrains_c_d_matin.png" alt="Planning du matin - Terrain C et D" style="width:100%;">
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+					<div class="carousel-caption">
+						<h1>Matin</h1>
+					</div>
+			</div>
+			<!--------------------------------------->
+			
+			
+			
+			<!---- Planning Après-midi - Terrain A et B -->
+			<div class="item">
+				<img src="./img/planning_terrains_a_b_aprem.png" alt="Planning après-midi - Terrain A et B" style="width:100%;">
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+					<div class="carousel-caption">
+						<h1>Après-midi</h1>
+					</div>
+			</div>
+			<!-------------------------------------------->
+	
+	
+	
+	
+	
+	
+			<!---- Planning Après-midi - Terrain A et B -->
+			<div class="item">
+				<img src="./img/planning_terrains_c_d_aprem.png" alt="Planning après-midi - Terrain C et D" style="width:100%;">
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+					<div class="carousel-caption">
+						<h1>Après-midi</h1>
+					</div>
+			</div>
+			<!-------------------------------------------->
+	
+	
+	
+	
+	
+
 			<!---- Liste Equipementier et Sponsors -->
 			<div class="item">
 				<img src="./img/sponsors.png" alt="Nos Sponsors" style="width:100%;">
@@ -266,6 +269,7 @@
 			<!--------------------------------------->
 			
 		</div>
+	
 	
 	
 	
