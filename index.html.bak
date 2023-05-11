@@ -235,7 +235,7 @@
 			
 		
 
-			<!---- Liste Equipementier et Sponsors -->
+			<!---- Nos Partenaires -->
 			<div class="item">
 				<img src="./img/sponsors.png" alt="Nos Sponsors" style="width:100%;">
 					</br>
@@ -245,7 +245,7 @@
 					</br>
 					</br>
 					<div class="carousel-caption">
-						<h1>Equipementier - Sponsors</h1>
+						<h1>Partenaires</h1>
 					</div>
 			</div>
 			<!--------------------------------------->
