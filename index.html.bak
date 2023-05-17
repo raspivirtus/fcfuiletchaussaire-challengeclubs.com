@@ -15,16 +15,7 @@
 <div class="container">
 	<div id="myCarousel" class="carousel slide" data-ride="carousel"" data-interval="10000">
 		<img src="./img/entete_fcfc.png" alt="" style="width:100%;">
-				<div style="text-align:center;">
-		<iframe name="compte_rebours_calendrier_journalier" 
-				id="compte_rebours_calendrier_journalier" 
-				style="width:300px;height:40px;" 
-				<src="https://www.calendrier-journalier.fr/affiche_compte_rebours.php?date=20/05/2023&heure=09:00" scrolling="no" 
-				frameborder="0" allowtransparency="true">
-			</iframe>
-		</div>
-				
-		
+
 		
 		
 		
